@@ -1,0 +1,6 @@
+####  มี guideline อะไร เขียนมาได้เลยนะครับ ####
+
+responsive width:
+
+- Mobile: 375px
+- Desktop: 1440px (if needed)
